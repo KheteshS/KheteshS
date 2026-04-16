@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Devloper
 -----------------------
 
-Innovative Full-Stack Developer with 3+ years of experience building scalable, user-centric web applications. Proficient in both front-end and back-end technologies, with a strong track record of delivering high-quality, modular solutions in agile environments. Collaborative team player skilled at working with cross-functional teams to meet business objectives and drive project success.
+Experienced software engineer with 3.9+ years of expertise in full-stack development and team leadership. Proven track record of delivering scalable solutions, mentoring junior developers, and driving technical innovation. Strong background in React, Node.js, and cloud technologies with experience leading cross-functional teams.
 
 * 🌍  I'm based in Bengaluru, India
 * 🖥️  See my portfolio at [here.](http://portfolio.runtime.qzz.io)
